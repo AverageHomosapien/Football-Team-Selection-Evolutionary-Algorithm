@@ -22,4 +22,4 @@ I used Matplotlib to visualise and compare my operators in the report as it allo
 ## An example of some results:
 
 ![comparison-of-mutation-operators](https://github.com/AverageHomosapien/Football-Team-Selection-Evolutionary-Algorithm/blob/main/saved_plots/mutUniformInt.png)
-![comparison-of-mutation-operators](https://github.com/AverageHomosapien/Football-Team-Selection-Evolutionary-Algorithm/blob/main/saved_plots/tourn3vs6.png.png)
+![comparison-of-mutation-operators](https://github.com/AverageHomosapien/Football-Team-Selection-Evolutionary-Algorithm/blob/main/saved_plots/tourn3vs6.png)
