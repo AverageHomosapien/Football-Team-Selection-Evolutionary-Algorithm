@@ -14,11 +14,12 @@ I fully detail my approach in the PDF file attached. I will summarise my approac
 I used Python and the Deap library as this has a lot of pre-built EA functions inbuilt.
 Python is an extremely flexible and easy-to-write language.
 
-I used Jupyter Notebooks as this allows rapid prototyping, quick evaluation and code to be run line by line
- - extremely useful in a Scientific setting.
+I used Jupyter Notebooks as this allows rapid prototyping, quick evaluation and code to be run line by line, 
+which is extremely useful in a Scientific setting.
 
 I used Matplotlib to visualise and compare my operators in the report as it allows for quick and flexible graphing.
 
 ## An example of some results:
 
 ![comparison-of-mutation-operators](https://github.com/AverageHomosapien/Football-Team-Selection-Evolutionary-Algorithm/blob/main/saved_plots/mutUniformInt.png)
+![comparison-of-mutation-operators](https://github.com/AverageHomosapien/Football-Team-Selection-Evolutionary-Algorithm/blob/main/saved_plots/tourn3vs6.png.png)
